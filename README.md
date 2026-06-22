@@ -200,21 +200,7 @@ Performance Evaluation
 
 ---
 
-# 📁 Repository Structure
 
-```text
-EDA-ML-DL-PROJECTS
-│
-├── AI-Based Heart Attack Prediction System
-├── AI-Based Student Performance Prediction System
-├── Credit Card Fraud Detection System
-├── AI-Based Medical Insurance Cost Prediction System
-├── AI-Based Electricity Consumption Prediction System
-│
-└── README.md
-```
-
----
 
 # 🚀 Future Enhancements
 
@@ -232,19 +218,7 @@ EDA-ML-DL-PROJECTS
 
 # 👨‍💻 Author
 
-### Muhammed Ajmal
-
-**Data Analyst | Machine Learning Enthusiast | Deep Learning Enthusiast**
-
-### Skills
-- Python
-- Data Analysis
-- Exploratory Data Analysis (EDA)
-- Machine Learning
-- Deep Learning
-- TensorFlow
-- Scikit-Learn
-- XGBoost
+### Adithya v s
 
 ---
 
