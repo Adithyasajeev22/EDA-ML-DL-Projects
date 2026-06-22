@@ -4,7 +4,7 @@ Welcome to my collection of End-to-End AI Projects built using Exploratory Data 
 
 ---
 
-## 📚 Projects Included
+# 📚 Projects Included
 
 ### ❤️ AI-Based Heart Attack Prediction System
 Developed a predictive system to determine the likelihood of heart attacks using demographic, health, and lifestyle factors. Multiple machine learning algorithms and deep learning models were used to improve prediction accuracy and support preventive healthcare decisions.
