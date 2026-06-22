@@ -1,6 +1,6 @@
 # 🚀 EDA • Machine Learning • Deep Learning Projects
 
-Welcome to my collection of **End-to-End AI Projects** built using **Exploratory Data Analysis (EDA), Machine Learning, and Deep Learning**. These projects demonstrate the complete workflow from data preprocessing and visualization to model development and evaluation.
+Welcome to my collection of End-to-End AI Projects built using Exploratory Data Analysis (EDA), Machine Learning, and Deep Learning. These projects demonstrate the complete workflow from data preprocessing and visualization to model development and evaluation.
 
 ---
 
